@@ -41,3 +41,5 @@ The following dependencies are required to run the code:
 3. The model will be trained and the script will show training accuracy and testing accuracy respectively.
 
 NOTE : The python notebook 'FDL_A3.ipynb' is included where the sweep configuration script, generating predicition_vanilla.csv and predicition_attention.csv is included
+
+LINK TO WANDB REPORT : https://wandb.ai/team_exe/fdl_a3/reports/CS6910-Assignment-3--Vmlldzo0NDI2MDc0
