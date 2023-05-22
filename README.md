@@ -30,7 +30,7 @@ The following dependencies are required to run the code:
 ## Usage
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/sequence-to-sequence-rnn.git
+   git clone https://github.com/RutujKhare1/CS6910_Assignment3.git
    ```
 
 2. Train the model:
